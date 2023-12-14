@@ -1,9 +1,7 @@
-from .edges import *
-from .nodes import *
+from .edge import *
 
 modules = [
-    edges,
-    nodes
+    edge
 ]
 
 __all__ = []
