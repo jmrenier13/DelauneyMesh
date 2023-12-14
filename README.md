@@ -11,7 +11,7 @@ A 2D delauney mesh generation algorithm
 - [List of properties](#list-of-properties)
     - [Properties of `Node` instance](#properties-of-node-instance)
     - [Properties of `Edge` instance](#properties-of-edge-instance)
-  - [List of methods](#list-of-methods)
+- [List of methods](#list-of-methods)
     - [Methods of `Edge` instance](#methods-of-edge-instance)
 
 ## How to install
