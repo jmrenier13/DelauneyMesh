@@ -10,6 +10,9 @@ A 2D delauney mesh generation algorithm
 - [Project structure](#project-structure)
 - [List of properties](#list-of-properties)
     - [Properties of `Node` instance](#properties-of-node-instance)
+    - [Properties of `Edge` instance](#properties-of-edge-instance)
+- [List of methods](#list-of-methods)
+    - [Methods of `Edge` instance](#methods-of-edge-instance)
 
 ## How to install
 
@@ -22,6 +25,7 @@ to add command later
 ## Project structure
 
 * `Node` class - structure for nodes.
+* `Edge` class - structure for edges.
 
 ## List of properties
 
@@ -29,3 +33,17 @@ to add command later
 
 * `x` - coordinate in the x dimension.
 * `y` - coordinate in the y dimension.
+
+### Properties of `Edge` instance
+
+* `center` - center of edge.
+* `enforced` - if the edge in enforced.
+* `length` - length of edge.
+* `normal` - normal vector.
+* `vector` - edge vector.
+
+## List of methods
+
+### Methods of `Edge` instance
+
+* `split` - split edge via point.
