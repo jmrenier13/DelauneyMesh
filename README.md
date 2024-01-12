@@ -1,7 +1,5 @@
 # DelauneyMesh
 
-<hr>
-
 [![CodeQL](https://github.com/jmrenier13/DelauneyMesh/actions/workflows/codeql.yml/badge.svg)](https://github.com/jmrenier13/DelauneyMesh/actions/workflows/codeql.yml)
 [![Unit Tests](https://github.com/jmrenier13/DelauneyMesh/actions/workflows/unit_tests.yml/badge.svg)](https://github.com/jmrenier13/DelauneyMesh/actions/workflows/build-tests.yml)
 [![codecov](https://codecov.io/gh/jmrenier13/DelauneyMesh/branch/main/graph/badge.svg?token=THJ84SUYUT)](https://codecov.io/gh/jmrenier13/DelauneyMesh)
